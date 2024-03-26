@@ -1,5 +1,6 @@
 # Project Name: Logic Inspect
 
+![screenshot](https://github.com/logic-inspect/logic-inspect.github.io/assets/164509556/81e64a38-e41a-4e99-8a4d-e5886c208c10)
 
 ## Description
 Logic Inspect created for the analysis and visualization of LIN bus data packages, exclusively working with Saleae Logic 2 captured packages. It relies on CSV files exported in a HEX byte format from the Saleae Logic 2 software. This project facilitates a deep dive into LIN bus communications, offering insights into package changes and trends over time.
